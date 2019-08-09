@@ -5,10 +5,10 @@ and can be downloaded using pip install
 ## Files
 basic_matrix_algebra (folder)
 <ol>
-<li> __init__.py: Used to create package</li>
+<li> __init__.py: Init function used to create package</li>
 <li> license.txt: Conveys user license</li>
 <li> matrix_algebra.py: Contains Matrix Class information</li>
 </ol>
 
 setup.py:
-* Used for creating package that could then be downloaded using pip install
+* Setup file Used for creating package and contains package details. This can also be downloaded using pip install from pypi
