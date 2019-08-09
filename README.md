@@ -3,7 +3,7 @@ This package performs matrix operations such as addition, subtraction, multiplic
 and can be downloaded using pip install
 
 ## Files
-*basic_matrix_algebra (folder)
+* basic_matrix_algebra (folder)
 <ol>
 <li> __init__.py: Used to create package</li>
 <li> license.txt: Conveys user license</li>
