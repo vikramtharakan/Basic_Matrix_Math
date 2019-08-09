@@ -10,4 +10,5 @@ basic_matrix_algebra (folder)
 <li> matrix_algebra.py: Contains Matrix Class information</li>
 </ol>
 
-setup.py: Used for creating package that could then be downloaded using pip install
+setup.py:
+* Used for creating package that could then be downloaded using pip install
